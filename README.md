@@ -2,18 +2,18 @@ AIRCRAFT SAFETY SURVEY
 
 ![Image_Alt](https://github.com/mwangikelvin201/dsc-phase-1-project-v3/blob/22386181de86a566db0914c2bdf6af1b9292a017/gettyimages-82096009-2048x2048.jpg)
 
-INTRODUCTION
+#INTRODUCTION
 
 The aircraft business has got alot of choices.They all differ in size,perfomance,price and safety.In this analysis the aim is to look into the safety of different aircrafts using the accidents data from the Aviation Data.csv.
 
-Problem Statement
+#Problem Statement
 Identify the safest aercraft for the airline to use.
 
-Main objective
+#Main objective
 
 The primary objective is to identify the aircraft that has the lowest risk for the business. This is from the data of accidents and incidents that have happened in the past involving different aircrafts. Also determining whether the aircraft models had anything to do with the accidents.
 
-Notebook Structure
+#Notebook Structure
 
 Data collection
 Data preprocessing
@@ -23,11 +23,11 @@ insights and recommendations
 Reporting and Visualization
 
 
-Business understanding
+#Business understanding
 
 The aircraft business is a very crucial business especially in terms of safety to passengers. This introduces the airlines to the big task of choosing the best aircrafts for the passengers not only in terms of comfort and luxury but most importantly the safety of the passengers. There is a vast choice of aircrafts in the market.Some which have had a good record safety wise and some which have been questionable in terms of safety due to their history of accidents which lead to loss of life and critical injuries and mechanical failures which potentially put the passengers at risk. It is ALWAYS very important to look into past data of aircrafts and see their records of the above before making a purchase for the safety of the passengers in order to avoid catastrophes through loss of life and tarnishing the company's reputation.
 
-Business questions regarding safety
+#Business questions regarding safety
 
 What systems are in place for monitoring critical parameters during flight (e.g., engines, avionics)?
 How do we ensure the functionality of emergency systems (e.g., oxygen masks, evacuation slides)?
