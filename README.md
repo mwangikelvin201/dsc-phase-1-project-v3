@@ -62,7 +62,7 @@ Handled missing values, duplicates, and formatting issues in the datasets to ens
  ## correlation analysis:
  Here we were carried a correlation analysis of our numerical columns to see how strong the relationship is.
   ### Visualizations
-  
+  ![Img_Alt](https://github.com/mwangikelvin201/dsc-phase-1-project-v3/blob/199454408a8bef9365de413c32cb21f44108c4a3/my_plot.png)
  
 
 
