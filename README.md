@@ -18,10 +18,15 @@ The primary objective is to identify the aircraft that has the lowest risk for t
 ### Notebook Structure
 
 Data collection
+
 Data preprocessing
+
 Exploratory data analysis(EDA)
+
 Comparative analysis
+
 insights and recommendations
+
 Reporting and Visualization
 
 
