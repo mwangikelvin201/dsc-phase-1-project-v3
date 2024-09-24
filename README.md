@@ -42,13 +42,28 @@ For this project, you will use data cleaning, imputation, analysis, and visualiz
 Your company is expanding in to new industries to diversify its portfolio. Specifically, they are interested in purchasing and operating airplanes for commercial and private enterprises, but do not know anything about the potential risks of aircraft. You are charged with determining which aircraft are the lowest risk for the company to start this new business endeavor. You must then translate your findings into actionable insights that the head of the new aviation division can use to help decide which aircraft to purchase.
 
 ### Data Understanding and Analysis
-## Data Source
+## 1.Data Source
 The data is from  [dataset](https://www.kaggle.com/datasets/khsamaha/aviation-accident-database-synopses) from the National Transportation Safety Board. 
-## Data Description
+## 2.Data Description
 
 The contains includes aviation accident data from 1962 to 2023 about civil aviation accidents and selected incidents in the United States and international waters.
 The data has all the plane features of all the planes that were involved in the accidents.
 The data includes features such as plane model,plane make,number of engines ,type of engine as well as weather during the happening of the accident among other information.
+
+ ### Methodology
+ ## Data Wrangling: 
+ The data underwent a comprehensive data wrangling process to ensure its quality and suitability for analysis. The following steps were performed during the data wrangling phase:
+
+## Data Cleaning:
+Handled missing values, duplicates, and formatting issues in the datasets to ensure data integrity. Applied appropriate techniques, such as imputation or removal, to address missing values.
+
+ ### Explolatory Data Analysis
+ Here we mostly used visualizations to gain insights of the relationship between our data variables . Bar graphs came in very handy to show the relationship between injuries and different plane models as well as other plane modifications.
+ ## correlation analysis:
+ Here we were carried a correlation analysis of our numerical columns to see how strong the relationship is.
+  ### Visualizations
+  
+ 
 
 
 ### Key Points
