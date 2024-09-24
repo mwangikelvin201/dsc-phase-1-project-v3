@@ -27,7 +27,6 @@ Comparative analysis and Visualization
 
 insights and recommendations
 
-and Visualization
 
 
 ### Business understanding
