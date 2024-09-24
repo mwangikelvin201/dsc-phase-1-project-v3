@@ -65,12 +65,19 @@ Handled missing values, duplicates, and formatting issues in the datasets to ens
  Here we were carried a correlation analysis of our numerical columns to see how strong the relationship is.
   ### Visualizations
   Here is a visualization showing Top 10 Plane Models by Total Uninjured people
+  
   ![Img_Alt](https://github.com/mwangikelvin201/dsc-phase-1-project-v3/blob/199454408a8bef9365de413c32cb21f44108c4a3/my_plot.png)
+  
   Here is a visualisation showing Top 10 Plane Make by Total Uninjured people
+  
  ![Img_Alt](https://github.com/mwangikelvin201/dsc-phase-1-project-v3/blob/f0dac55d2c1ab7188f3e120a6eea7cf6b2a1fd24/my_plot2.png)
+ 
  Here is a visualisation showing Top 10 Engine types by Total Uninjured people
+ 
  ![Img_ALt](https://github.com/mwangikelvin201/dsc-phase-1-project-v3/blob/810511850b4177da235ccef69f806280a83bfb30/my_plot4.png)
+ 
  Here is a visualisation showing Top 10 Number of engines by Total Uninjured people
+ 
  ![Img_Alt](https://github.com/mwangikelvin201/dsc-phase-1-project-v3/blob/5d08b823a5c70d28bcfebcc0ddddb795f7eee0a7/my_plot3.png)
  
 ### Conclusions.
