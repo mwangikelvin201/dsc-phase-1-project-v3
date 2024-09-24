@@ -41,11 +41,15 @@ For this project, you will use data cleaning, imputation, analysis, and visualiz
 
 Your company is expanding in to new industries to diversify its portfolio. Specifically, they are interested in purchasing and operating airplanes for commercial and private enterprises, but do not know anything about the potential risks of aircraft. You are charged with determining which aircraft are the lowest risk for the company to start this new business endeavor. You must then translate your findings into actionable insights that the head of the new aviation division can use to help decide which aircraft to purchase.
 
-### The Data
+### Data Understanding and Analysis
+## Data Source
+The data is from  [dataset](https://www.kaggle.com/datasets/khsamaha/aviation-accident-database-synopses) from the National Transportation Safety Board. 
+## Data Description
 
-In the `data` folder is a [dataset](https://www.kaggle.com/datasets/khsamaha/aviation-accident-database-synopses) from the National Transportation Safety Board that includes aviation accident data from 1962 to 2023 about civil aviation accidents and selected incidents in the United States and international waters.
+The contains includes aviation accident data from 1962 to 2023 about civil aviation accidents and selected incidents in the United States and international waters.
+The data has all the plane features of all the planes that were involved in the accidents.
+The data includes features such as plane model,plane make,number of engines ,type of engine as well as weather during the happening of the accident among other information.
 
-It is up to you to decide what data to use, how to deal with missing values, how to aggregate the data, and how to visualize it in an interactive dashboard.
 
 ### Key Points
 
