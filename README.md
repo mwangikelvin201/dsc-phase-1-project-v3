@@ -1,4 +1,5 @@
 # Phase 1 Project Description
+![Image_Alt](https://github.com/mwangikelvin201/dsc-phase-1-project-v3/blob/22386181de86a566db0914c2bdf6af1b9292a017/gettyimages-82096009-2048x2048.jpg)
 
 You've made it all the way through the first phase of this course - take a minute to celebrate your awesomeness!
 
