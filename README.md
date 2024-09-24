@@ -73,7 +73,7 @@ Handled missing values, duplicates, and formatting issues in the datasets to ens
  Here is a visualisation showing Top 10 Number of engines by Total Uninjured people
  ![Img_Alt](https://github.com/mwangikelvin201/dsc-phase-1-project-v3/blob/5d08b823a5c70d28bcfebcc0ddddb795f7eee0a7/my_plot3.png)
  
-###Conclusions.
+### Conclusions.
 Although the hope is that we get a plane that never gets involved in an accident,we are not yet there. Nevertheless we can always determine the craft that always has the best chances of survival incase an accident happens.
 
 Based on the Explolatory data analysis(EDA) conducted above, we can draw the following conclusions:
@@ -88,7 +88,7 @@ On the other hand Boeing has the most uninjured people so it is correct to say t
 
 4.The number of engines is another aspect we cannot ignore in our analysis.Planes with one engine caused most fatal injuries and minor injuries.The ones with more than one engine caused less and less with crafts having two engines being responsible for the most uninjured people.
 
-###Recommendations
+### Recommendations
 Based on our conclusions and observations,we can go ahead and make the following recommendations.
 
 1.Model: For the model I recommend the 737.Even though it leads on the injuries,it also has an advantage on all others in the uninjured number of people.(The model 737 is also linked to the make boeing which has proven to be the safest considering the Make.It is popularly known as Boeing 737)
