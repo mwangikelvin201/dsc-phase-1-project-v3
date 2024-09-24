@@ -23,11 +23,11 @@ Data preprocessing
 
 Exploratory data analysis(EDA)
 
-Comparative analysis
+Comparative analysis and Visualization
 
 insights and recommendations
 
-Reporting and Visualization
+and Visualization
 
 
 ### Business understanding
