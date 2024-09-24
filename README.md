@@ -1,6 +1,8 @@
 ### AIRCRAFT SAFETY SURVEY
 
 ![Image_Alt](https://github.com/mwangikelvin201/dsc-phase-1-project-v3/blob/22386181de86a566db0914c2bdf6af1b9292a017/gettyimages-82096009-2048x2048.jpg)
+![Img_Alt].(https://github.com/mwangikelvin201/dsc-phase-1-project-v3/blob/3a8bbfa0faeb5562f1675e318144ae105197266c/my_plot3.png)
+
 
 ### INTRODUCTION
 
