@@ -1,12 +1,33 @@
-# Phase 1 Project Description
+AIRCRAFT SAFETY SURVEY
+
 ![Image_Alt](https://github.com/mwangikelvin201/dsc-phase-1-project-v3/blob/22386181de86a566db0914c2bdf6af1b9292a017/gettyimages-82096009-2048x2048.jpg)
 
-You've made it all the way through the first phase of this course - take a minute to celebrate your awesomeness!
+INTRODUCTION
+The aircraft business has got alot of choices.They all differ in size,perfomance,price and safety.In this analysis the aim is to look into the safety of different aircrafts using the accidents data from the Aviation Data.csv.
 
-Now you will put your new skills to use with a large end-of-Phase project!
+Problem Statement
+Identify the safest aercraft for the airline to use.
 
-In this project description, we will cover:
+Main objective
+The primary objective is to identify the aircraft that has the lowest risk for the business. This is from the data of accidents and incidents that have happened in the past involving different aircrafts. Also determining whether the aircraft models had anything to do with the accidents.
 
+Notebook Structure
+Data collection
+Data preprocessing
+Exploratory data analysis(EDA)
+Comparative analysis
+insights and recommendations
+Reporting and Visualization
+
+
+Business understanding
+
+The aircraft business is a very crucial business especially in terms of safety to passengers. This introduces the airlines to the big task of choosing the best aircrafts for the passengers not only in terms of comfort and luxury but most importantly the safety of the passengers. There is a vast choice of aircrafts in the market.Some which have had a good record safety wise and some which have been questionable in terms of safety due to their history of accidents which lead to loss of life and critical injuries and mechanical failures which potentially put the passengers at risk. It is ALWAYS very important to look into past data of aircrafts and see their records of the above before making a purchase for the safety of the passengers in order to avoid catastrophes through loss of life and tarnishing the company's reputation.
+
+Business questions regarding safety
+What systems are in place for monitoring critical parameters during flight (e.g., engines, avionics)?
+How do we ensure the functionality of emergency systems (e.g., oxygen masks, evacuation slides)?
+What redundancy measures exist for critical flight systems?
 * [***Project Overview:***](#project-overview) the project goal, audience, and dataset
 * [***Deliverables:***](#deliverables) the specific items you are required to produce for this project
 * [***Grading:***](#grading) how your project will be scored
