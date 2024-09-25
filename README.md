@@ -92,28 +92,29 @@ Although the hope is that we get a plane that never gets involved in an accident
 
 Based on the Explolatory data analysis(EDA) conducted above, we can draw the following conclusions:
 
-1.The plane "Model" plays a very big role in survival and minor injuries of the passengers. From our plots above we can seee that although the Model 737 leads with most fatal and serious injuries which is very devastating.On the other hand it also leads with most uninjured people and that is a positive insight.
+1.The plane "Model" plays a very big role in survival and minor injuries of the passengers. From our plots above it is evident that although the Model 737 leads with most fatal and serious injuries which is very devastating.On the other hand it also leads with most uninjured people and that is a positive insight.
 
 2.The plane Make is also a very crucial in determining the survival rate and injury state of those on board. The make "cessna" has a very poor record in injury rate.It leads in all the injury records with most casualties. It has the most seriously injured,fatal injuries as well as the minor injuries. That is quite alarming for the model.
 
 On the other hand Boeing has the most uninjured people so it is correct to say that it is the safest plane make above all others involved in this analysis.
 
-3.On the engine make,We can see that the planes with a turbo fan engine type leads with the most uninjured people. We could also say the reciprocating engine(Which is used on most aircrafts on the analysis) is relatively safer because it has the most minor injuries. It is something posistive considering it is used in most of the aircrafts.
+3.On the engine make,it is seen that the planes with a turbo fan engine type leads with the most uninjured people. It is also correct to say the reciprocating engine(Which is used on most aircrafts on the analysis) is relatively safer because it has the most minor injuries. It is something posistive considering it is used in most of the aircrafts.
 
-4.The number of engines is another aspect we cannot ignore in our analysis.Planes with one engine caused most fatal injuries and minor injuries.The ones with more than one engine caused less and less with crafts having two engines being responsible for the most uninjured people.
+4.The number of engines is another aspect that cannot be ignored in our analysis.Planes with one engine caused most fatal injuries and minor injuries.The ones with more than one engine caused less and less with crafts having two engines being responsible for the most uninjured people.
 
 ### Recommendations
 Based on our conclusions and observations,we can go ahead and make the following recommendations.
 
-1.Model: For the model I recommend the 737.Even though it leads on the injuries,it also has an advantage on all others in the uninjured number of people.(The model 737 is also linked to the make boeing which has proven to be the safest considering the Make.It is popularly known as Boeing 737)
+1.Model: For the model The airline should consider the 737.Even though it leads on the injuries,it also has an advantage on all others in the uninjured number of people.(The model 737 is also linked to the make boeing which has proven to be the safest considering the Make.It is popularly known as Boeing 737)
 
-2.Make: The Boeing has proved to be the best in Make considering the safety of the passengers.I recommend the boeing make for the airline
+2.Make: The Boeing has proved to be the best in Make considering the safety of the passengers.The airline should consider the boeing make for the safety of the passengers.
 
-3.Engine make: I highly recommend a craft that makes use of the turbo fan engine type.This is the engine found in the Boeing 737 plane and has great capabilities of perfomance in high altitudes and great speeds.
+3.Engine make: The airline should consider  a craft that makes use of the turbo fan engine type.This is the engine found in the Boeing 737 plane and has great capabilities of perfomance in high altitudes and great speeds.
 
 4.Number of engines: on the engine number,anything more than one engine is considerably safe. Two seems to be the mostly used and has proved to be very safe.
 
 More than two engines is practical but also very inefficient in terms of fuel given that most crafts that utilize four and more engines are mostly millitary.Two engines would be very okay for the airlines flights.
 
-Given all the above recommendations,the Boeing 737 fits our description of the safest plane on this analysis. The plane can then be customized depending on luxury levels as well as commercial fittings.
+## Conclusion
 
+Based on this analysis, the Boeing 737 stands out as the safest option. It combines a favorable injury record with robust performance capabilities. Airlines can tailor the aircraft for luxury and commercial needs, ensuring both safety and passenger satisfaction.
