@@ -92,15 +92,15 @@ Although the hope is that we get a plane that never gets involved in an accident
 
 Based on the Explolatory data analysis(EDA) conducted above, we can draw the following conclusions:
 
-1.The plane "Model" plays a very big role in survival and minor injuries of the passengers. From our plots above we can seee that although the Model 737 leads with most fatal and serious injuries which is very devastating.On the other hand it also leads with most uninjured people and that is a positive insight.
+1.The plane "Model" plays a very big role in survival and minor injuries of the passengers. From our plots above it is evident that although the Model 737 leads with most fatal and serious injuries which is very devastating.On the other hand it also leads with most uninjured people and that is a positive insight.
 
 2.The plane Make is also a very crucial in determining the survival rate and injury state of those on board. The make "cessna" has a very poor record in injury rate.It leads in all the injury records with most casualties. It has the most seriously injured,fatal injuries as well as the minor injuries. That is quite alarming for the model.
 
 On the other hand Boeing has the most uninjured people so it is correct to say that it is the safest plane make above all others involved in this analysis.
 
-3.On the engine make,We can see that the planes with a turbo fan engine type leads with the most uninjured people. We could also say the reciprocating engine(Which is used on most aircrafts on the analysis) is relatively safer because it has the most minor injuries. It is something posistive considering it is used in most of the aircrafts.
+3.On the engine make,it is seen that the planes with a turbo fan engine type leads with the most uninjured people. It is also correct to say the reciprocating engine(Which is used on most aircrafts on the analysis) is relatively safer because it has the most minor injuries. It is something posistive considering it is used in most of the aircrafts.
 
-4.The number of engines is another aspect we cannot ignore in our analysis.Planes with one engine caused most fatal injuries and minor injuries.The ones with more than one engine caused less and less with crafts having two engines being responsible for the most uninjured people.
+4.The number of engines is another aspect that cannot be ignored in our analysis.Planes with one engine caused most fatal injuries and minor injuries.The ones with more than one engine caused less and less with crafts having two engines being responsible for the most uninjured people.
 
 ### Recommendations
 Based on our conclusions and observations,we can go ahead and make the following recommendations.
