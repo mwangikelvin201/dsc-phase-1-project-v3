@@ -35,11 +35,13 @@ The aircraft business is a very crucial business especially in terms of safety t
 
 ### Business questions regarding safety
 
-What systems are in place for monitoring critical parameters during flight (e.g., engines, avionics)?
+What is the safest plane model in the market?
 
-How do we ensure the functionality of emergency systems (e.g., oxygen masks, evacuation slides)?
+What is the safest plane Make among those involved?
 
-What redundancy measures exist for critical flight systems?
+How many engines are sufficient for our craft safety?
+
+What engine type should be considered from those in the market?
 
 
 
