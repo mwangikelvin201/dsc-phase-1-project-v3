@@ -105,15 +105,16 @@ On the other hand Boeing has the most uninjured people so it is correct to say t
 ### Recommendations
 Based on our conclusions and observations,we can go ahead and make the following recommendations.
 
-1.Model: For the model I recommend the 737.Even though it leads on the injuries,it also has an advantage on all others in the uninjured number of people.(The model 737 is also linked to the make boeing which has proven to be the safest considering the Make.It is popularly known as Boeing 737)
+1.Model: For the model The airline should consider the 737.Even though it leads on the injuries,it also has an advantage on all others in the uninjured number of people.(The model 737 is also linked to the make boeing which has proven to be the safest considering the Make.It is popularly known as Boeing 737)
 
-2.Make: The Boeing has proved to be the best in Make considering the safety of the passengers.I recommend the boeing make for the airline
+2.Make: The Boeing has proved to be the best in Make considering the safety of the passengers.The airline should consider the boeing make for the safety of the passengers.
 
-3.Engine make: I highly recommend a craft that makes use of the turbo fan engine type.This is the engine found in the Boeing 737 plane and has great capabilities of perfomance in high altitudes and great speeds.
+3.Engine make: The airline should consider  a craft that makes use of the turbo fan engine type.This is the engine found in the Boeing 737 plane and has great capabilities of perfomance in high altitudes and great speeds.
 
 4.Number of engines: on the engine number,anything more than one engine is considerably safe. Two seems to be the mostly used and has proved to be very safe.
 
 More than two engines is practical but also very inefficient in terms of fuel given that most crafts that utilize four and more engines are mostly millitary.Two engines would be very okay for the airlines flights.
 
-Given all the above recommendations,the Boeing 737 fits our description of the safest plane on this analysis. The plane can then be customized depending on luxury levels as well as commercial fittings.
+## Conclusion
 
+Based on this analysis, the Boeing 737 stands out as the safest option. It combines a favorable injury record with robust performance capabilities. Airlines can tailor the aircraft for luxury and commercial needs, ensuring both safety and passenger satisfaction.
