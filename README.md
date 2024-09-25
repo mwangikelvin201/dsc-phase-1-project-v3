@@ -120,3 +120,7 @@ More than two engines is practical but also very inefficient in terms of fuel gi
 ## Conclusion
 
 Based on this analysis, the Boeing 737 stands out as the safest option. It combines a favorable injury record with robust performance capabilities. Airlines can tailor the aircraft for luxury and commercial needs, ensuring both safety and passenger satisfaction.
+
+
+For a comprehensive view of the data and insights, check out the dashboard [here](https://public.tableau.com/app/profile/kelvin.mwangi/viz/Comparisonofdifferentinjurystatisticswithvariousplaneaspects/VisualsoftheAviationDataSet?publish=yes).
+
